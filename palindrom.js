@@ -1,3 +1,4 @@
+// This number is Palindrome or not
 var isPalindrome = function (x) {
 
                let arr = x.toString();
